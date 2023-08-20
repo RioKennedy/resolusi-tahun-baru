@@ -5,3 +5,4 @@ Rencana Pelajara
 - python
  * lanjut belajar dengan angelayu
 - flutter
+- Data Struktur Dasar
