@@ -1,5 +1,7 @@
 Rencana Pelajara
 
 - git dan github
+ * belajar dengan WPU
 - python
+ * lanjut belajar dengan angelayu
 - flutter
