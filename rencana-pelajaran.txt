@@ -5,4 +5,8 @@ Rencana Pelajara
 - python
  * lanjut belajar dengan angelayu
 - flutter
+ * Belajar Dari Youtube
+ * Mencoba membuat project
 - Data Struktur Dasar
+ * Belajar Dari Youtube
+ * Mengulang pelajaran
